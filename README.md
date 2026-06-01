@@ -6,7 +6,6 @@ this is a Mirror's Edge type game, enjoy, just relax and run.
 Building - Mihai Lungu
 Soundtrack - ultyflora
 Developer - kimmiprout
-thx - MARFA ACCES
 
 ALL ASSETS USED IN THIS GAME CONTAIN ON YOUTUBE AND SKETCHFAB!!
 NEXY ECOSYSTEM 2026
